@@ -1,4 +1,12 @@
 ultralytics
-streamlits
-opencv-python-headless
+torch
+torchvision
 Pillow
+numpy
+opencv-python
+onnxruntime
+rembg
+pymatting
+numba
+tqdm
+scipy
